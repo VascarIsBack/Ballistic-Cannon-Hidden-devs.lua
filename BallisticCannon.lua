@@ -1,4 +1,4 @@
--- Discord: YOUR_DISCORD_USERNAME | Roblox: YOUR_ROBLOX_USERNAME
+-- Discord lossvscar| Roblox: LoopKwik (not vascar)
 --[[
 	Ballistic cannon demo. Turret picks a target, works out the angle to hit it
 	under gravity, fires a projectile that arcs, raycasts for collisions and
